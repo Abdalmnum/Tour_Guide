@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="cairo">Cairo</string>
+    <string name="desc">   Cairo is the capital of Egypt.
+        The city`s metropolitan area is one of the largest in Africa,
+        the largest in the Middle East, and the 15th-largest in the world,
+        Located near the Nile Delta
+    </string>
+    <string name="location">Location</string>
+    <string name="location_desc">Cairo is located in northern Egypt</string>
+    <string name="location_desc2">   known as Lower Egypt,
+         The city lies along the Nile River
+    </string>
+    <string name="tourism">Tourism Places</string>
+    <string name="tourism_desc">It is associated with ancient Egypt,
+        as the famous Giza pyramid,
+        Cairo has the oldest and largest film and music industries in the Arab world,
+        Al-Azhar University</string>
+    <string name="home">Home</string>
+    <string name="public_places">Public Places</string>
+    <string name="events">Events</string>
+    <string name="restruent">Restruent</string>
+
+</resources>

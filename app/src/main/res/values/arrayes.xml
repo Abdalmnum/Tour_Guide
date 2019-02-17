@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Resturent Data -->
+    <string-array name="list_names">
+        <item>Saigon Blo</item>
+        <item>Tabula</item>
+        <item>Saraya Gallary</item>
+        <item>Zitouni</item>
+        <item>Kamala</item>
+    </string-array>
+    <string-array name="list_Desc">
+        <item>resturent famous in cairo</item>
+        <item>labnan resturent in cairo</item>
+        <item>saraya gallary resturent as gallary</item>
+        <item>random restutrent make good food</item>
+        <item>kamala resturent is a known resturent</item>
+    </string-array>
+    <string-array name="list_Image">
+        <item>@drawable/saigon_blo_rest</item>
+        <item>@drawable/tabula_rest</item>
+        <item>@drawable/saraya_gallary_rest</item>
+        <item>@drawable/zitouni_rest</item>
+        <item>@drawable/kamala_rest</item>
+    </string-array>
+    <!-- Public Places Data -->
+    <string-array name="list_names2">
+        <item>Salah Aldin Castle</item>
+        <item>Alzher Mosque</item>
+        <item>Cairo Tower</item>
+        <item>Egyption Musuem</item>
+        <item>Tahrir Squre</item>
+    </string-array>
+    <string-array name="list_Desc2">
+        <item>This castle is oldest builds in cairo </item>
+        <item>Alzher is oldest mosque in egypt</item>
+        <item>This tower is tallest buldings in cairo </item>
+        <item>that musuem contain important monument in egypt </item>
+        <item>tahrir squre is aspacial place in cairo </item>
+    </string-array>
+    <string-array name="list_Image2">
+        <item>@drawable/castle</item>
+        <item>@drawable/alzher_musque</item>
+        <item>@drawable/cairo_tower</item>
+        <item>@drawable/egyption_musuem</item>
+        <item>@drawable/tahrir_squre</item>
+    </string-array>
+    <!-- Events Data -->
+    <string-array name="list_names3">
+        <item>25 January Revoultion</item>
+        <item>6 October War</item>
+        <item>23 July war</item>
+        <item>1 January</item>
+
+    </string-array>
+    <string-array name="list_Desc3">
+        <item>That important event in egypt which revoultion happen  </item>
+        <item>That day egypt win at 6 october 1973 year on Israil  </item>
+        <item>At this day in 1953 year revoultion happen</item>
+        <item>this is offical vacancies </item>
+    </string-array>
+    <string-array name="list_Image3">
+        <item>@drawable/event_25</item>
+        <item>@drawable/event_6</item>
+        <item>@drawable/event_23</item>
+        <item>@drawable/event_1</item>
+
+    </string-array>
+
+</resources>
